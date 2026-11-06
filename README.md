@@ -1,2 +1,7 @@
-# diabetes-online-bank-quiz
-Diabetes Mellitus · Online Bank · Quiz
+# Diabetes Mellitus — Online Bank · Quiz
+
+كويز تفاعلي (520 كارت / 69 باب من بنك أسئلة منشورة على الويب — بمفاتيح الإجابات الأصلية).
+
+ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر. المود 🤖 AI ومود 📄 الملف، ومقاليته بتفضل كتابة في المودَين.
+كل الإجابات منقولة حرفيًا من البنك نفسه (مفيش MCQ مؤلَّف).
+افتح الكويز من اللينك: https://Notabene450.github.io/diabetes-online-bank-quiz/
